@@ -6,8 +6,9 @@ toggleDisabled is an AngularJS directive written with Twitter Bootstrap in mind.
 
 Usage
 =====
-```
-<pre>
-  <button toggle-disabled="scopeAttr">Click me!</button>
-</pre>
+
+Simply add the directive as an attribute on a button and pass in the $scope element that you want it to watch.
+
+```html
+<button toggle-disabled="scopeAttr">Click me!</button>
 ```
