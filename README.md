@@ -3,6 +3,8 @@ toggleDisabled
 
 toggleDisabled is an AngularJS directive written with Twitter Bootstrap in mind. The goal is to bind the disabled attribute with a $scope element. When the $scope value is true, you can click the button, and when it is false, the button is disabled.
 
+Wanna see it in action? Check out http://mmcbride1007.github.io/toggleDisabled
+
 
 Usage
 =====
