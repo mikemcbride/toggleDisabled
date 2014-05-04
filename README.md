@@ -19,4 +19,4 @@ To implement it, simply add the directive as an attribute on a button and pass i
 Testing
 =======
 
-toggleDisabled works in all major browsers and has been tested to work with AngularJS up to the most recent version (1.2.15 at the time of writing this). This should _theoretically_ work in any version of Angular going forward as long as JQLite remains a component of the library.
+toggleDisabled works in all major browsers and has been tested to work with AngularJS up to the most recent version (1.2.15 at the time of writing this). The only dependency is JQLite, so as long as that remains a component of AngularJS (or if you are including jQuery in your app) it will work.
